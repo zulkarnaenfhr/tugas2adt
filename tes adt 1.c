@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
  
+ 
+ //link Git hub : https://github.com/zulkarnaenfhr/tugas2adt
+ 
 struct Siswa {
   
   char  nama[50];
