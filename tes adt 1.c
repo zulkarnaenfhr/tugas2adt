@@ -3,7 +3,8 @@
  
  
  //link Git hub : https://github.com/zulkarnaenfhr/tugas2adt
- 
+ // Fahri izzuddin zulkarnaen
+ //19081010046
 struct Siswa {
   
   char  nama[50];
